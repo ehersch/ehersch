@@ -30,13 +30,14 @@ Connect with me on LinkedIn and I would be happy to chat more!
 Looking for a book to read? Here are some of my favorites:
 
 ### Steve Jobs by Walter Isaacson
-![Steve Jobs](https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg)
+<img src="https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg" alt="Steve Jobs" width="200"/>
 
 ### Outliers by Malcolm Gladwell
-![Outliers]([https://images-na.ssl-images-amazon.com/images/I/71nU1rkZXfL.jpg](https://m.media-amazon.com/images/I/91lYcUJ8JsL._AC_UF1000,1000_QL80_.jpg))
+<img src="https://m.media-amazon.com/images/I/91lYcUJ8JsL._AC_UF1000,1000_QL80_.jpg" alt="Outliers" width="200"/>
 
 ### The Road by Cormac McCarthy
-![The Road]([https://images-na.ssl-images-amazon.com/images/I/41JD3MSR2QL._SX331_BO1,204,203,200_.jpg](https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UF1000,1000_QL80_.jpg))
+<img src="https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UF1000,1000_QL80_.jpg" alt="The Road" width="200"/>
+
 
 
 Thanks for visiting my profile!
