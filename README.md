@@ -1,5 +1,4 @@
 ## Welcome to my GitHub! 👋
----
 
 ## Introduction
 Hello! I'm Ethan Hersch, a passionate developer with experience in various programming languages and tools. I enjoy solving complex problems and constantly learning new technologies. Below you'll find a bit more about my specialties.
@@ -29,15 +28,15 @@ Connect with me on LinkedIn and I would be happy to chat more!
 
 Looking for a book to read? Here are some of my favorites:
 
-### *Steve Jobs* by Walter Isaacson
+*Steve Jobs* by Walter Isaacson
 <img src="https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg" alt="Steve Jobs" width="200"/>
 
-### *Outliers* by Malcolm Gladwell
+*Outliers* by Malcolm Gladwell
 <img src="https://m.media-amazon.com/images/I/91lYcUJ8JsL._AC_UF1000,1000_QL80_.jpg" alt="Outliers" width="200"/>
 
-### *The Road* by Cormac McCarthy
+*The Road* by Cormac McCarthy
 <img src="https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UF1000,1000_QL80_.jpg" alt="The Road" width="200"/>
 
 
 
-Thanks for visiting my profile!
+##Thanks for visiting my profile!
