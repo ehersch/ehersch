@@ -37,6 +37,9 @@ Looking for a book to read? Here are some of my favorites:
 ### *The Road* by Cormac McCarthy
 <img src="https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UF1000,1000_QL80_.jpg" alt="The Road" width="200"/>
 
+### *Seven Brief Lessons on Physics* by Carlo Rovelli
+<img src="https://images-na.ssl-images-amazon.com/images/I/51sSLiE9z8L._SX327_BO1,204,203,200_.jpg" alt="Seven Brief Lessons on Physics" width="200"/>
 
+---
 
 ##Thanks for visiting my profile!
