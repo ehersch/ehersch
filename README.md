@@ -33,10 +33,10 @@ Looking for a book to read? Here are some of my favorites:
 ![Steve Jobs](https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg)
 
 ### Outliers by Malcolm Gladwell
-![Outliers](https://images-na.ssl-images-amazon.com/images/I/71nU1rkZXfL.jpg)
+![Outliers]([https://images-na.ssl-images-amazon.com/images/I/71nU1rkZXfL.jpg](https://m.media-amazon.com/images/I/91lYcUJ8JsL._AC_UF1000,1000_QL80_.jpg))
 
 ### The Road by Cormac McCarthy
-![The Road](https://images-na.ssl-images-amazon.com/images/I/41JD3MSR2QL._SX331_BO1,204,203,200_.jpg)
+![The Road]([https://images-na.ssl-images-amazon.com/images/I/41JD3MSR2QL._SX331_BO1,204,203,200_.jpg](https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UF1000,1000_QL80_.jpg))
 
 
 Thanks for visiting my profile!
