@@ -23,23 +23,6 @@ Feel free to browse through my repositories to see some of the projects I've wor
 
 ## Get In Touch
 Connect with me on LinkedIn and I would be happy to chat more!
-
-## Here's a little something fun to break the ice:
-
-Looking for a book to read? Here are some of my favorites:
-
-### *Steve Jobs* by Walter Isaacson
-<img src="https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg" alt="Steve Jobs" width="200"/>
-
-### *Outliers* by Malcolm Gladwell
-<img src="https://m.media-amazon.com/images/I/91lYcUJ8JsL._AC_UF1000,1000_QL80_.jpg" alt="Outliers" width="200"/>
-
-### *The Road* by Cormac McCarthy
-<img src="https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UF1000,1000_QL80_.jpg" alt="The Road" width="200"/>
-
-### *Seven Brief Lessons on Physics* by Carlo Rovelli
-<img src="https://i.thriftbooks.com/api/imagehandler/m/B8C4B0E9773E75C1AD1BA9FA71AED59E51258358.jpeg" alt="Seven Brief Lessons on Physics" width="200"/>
-
 ---
 
-##Thanks for visiting my profile!
+## Thanks for visiting my profile!
