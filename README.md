@@ -24,6 +24,6 @@ Feel free to browse through my repositories to see some of the projects I've wor
 ## Get In Touch
 Connect with me on LinkedIn and I would be happy to chat more!
 
---
+---
 
 ## Thanks for visiting my profile!
