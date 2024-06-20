@@ -19,7 +19,7 @@ Here are some of the languages and tools I am proficient in (most proficient fir
 
 
 ## Projects and Contributions
-Feel free to browse through my repositories to see some of the projects I've worked on. I'm always looking for opportunities to improve my skills and take on new challenges.
+Feel free to browse through my repositories to see some of the projects I've worked on. I'm always looking for opportunities to expand my skillset and take on new challenges.
 
 ## Get In Touch
 Connect with me on LinkedIn and I would be happy to chat more!
